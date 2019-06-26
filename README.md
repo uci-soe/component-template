@@ -104,3 +104,13 @@ npm run publish-release
 ## Missing Something
 
 Feel free to create an [issue](https://github.com/reactstrap/component-template/issues/new) or PR.
+
+
+## Contributors
+
+- Your Name <[your github id](#)>
+
+## License
+
+Component Licensed under [BSD-3-CLAUSE](LICENSE)
+Component Template Licensed Under [MIT](LICENSE-component-template) from [reactstrap/component-template](https://github.com/reactstrap/component-template)
