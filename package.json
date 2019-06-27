@@ -5,7 +5,7 @@
   "homepage": "https://reactstrap.github.io/component-template",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/reactstrap/component-template.git"
+    "url": "git+ssh://git@github.com/uci-soe/component-template.git"
   },
   "main": "lib/index.js",
   "scripts": {
